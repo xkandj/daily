@@ -30,5 +30,5 @@ def compute_video_time(path):
 
 
 if __name__ == "__main__":
-    path = r"D:\01-Software\01-Installers\BaiduNetdisk\download"
+    path = r"D:\xxx\download"
     compute_video_time(path)
