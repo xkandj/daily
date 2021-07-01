@@ -30,5 +30,5 @@ def compute_video_time(path):
 
 
 if __name__ == "__main__":
-    path = r"D:\xxx\download"
+    path = r"c:\users\xxx\desktop\1.txt"
     compute_video_time(path)
